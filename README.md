@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Multi-Page Pre-Sale Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# dagos-presale
+>>>>>>> 6c53e3f1a799b2393e7bb05dc76eec6a31d5e5c6
